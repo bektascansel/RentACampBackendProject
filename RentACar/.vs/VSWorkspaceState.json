@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\Utilities",
+    "\\Core\\Utilities\\Helper",
+    "\\Core\\Utilities\\Helper\\FileHelper",
+    "\\Core\\Utilities\\Helper\\FileHelper\\Constants",
+    "\\Core\\Utilities\\Security",
+    "\\Core\\Utilities\\Security\\Hashing",
+    "\\Core\\Utilities\\Security\\JWT",
+    "\\WebAPI",
+    "\\WebAPI\\Controllers"
+  ],
+  "SelectedNode": "\\WebAPI\\Controllers\\UsersController.cs",
+  "PreviewInSolutionExplorer": false
+}
